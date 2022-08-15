@@ -32,7 +32,7 @@ export default function Home() {
           </article>
           <article>
             <Link href="/">
-              <img src="/images/thumbnail01.jpg"
+              <img src="/images/thumbnail02.jpg"
                 className={styles.thumbnailImage}
               ></img>
             </Link>
@@ -44,7 +44,7 @@ export default function Home() {
           </article>
           <article>
             <Link href="/">
-              <img src="/images/thumbnail01.jpg"
+              <img src="/images/thumbnail03.jpg"
                 className={styles.thumbnailImage}
               ></img>
             </Link>
@@ -56,7 +56,7 @@ export default function Home() {
           </article>
           <article>
             <Link href="/">
-              <img src="/images/thumbnail01.jpg"
+              <img src="/images/thumbnail04.jpg"
                 className={styles.thumbnailImage}
               ></img>
             </Link>
